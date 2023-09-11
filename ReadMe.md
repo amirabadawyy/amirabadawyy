@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning new skills.<br>🌱 I’m currently learning Mobile Application Development (Flutter) - UI/UX.<br>💬 Ask me about design and programming.<br>
-
+🔭 I’m currently working on Learning new skills.<br>🌱 I’m currently learning Mobile Application Development (Flutter) - UI/UX.<br>💬 Ask me about design and programming.<br>📫 How to reach me **amiraabouelezz2001@gmail.com**<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mirabadawy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amirabadawyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amira_badawyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amirabadawyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amira_badawyy) 
