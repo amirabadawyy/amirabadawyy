@@ -1,3 +1,9 @@
+
+<h1 align="center">
+<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Amira Badawy <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
+ <br>
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Learning new skills.<br>🌱 I’m currently learning Mobile Application Development (Flutter) - UI/UX.<br>💬 Ask me about design and programming.<br>
 📫 How to reach me **amiraabouelezz2001@gmail.com**<br>
